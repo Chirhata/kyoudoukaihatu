@@ -17,7 +17,7 @@ git push origin master
 ## 変更の反映
 ```
 git add a.txt
-git commit -m ”wrote" 
+git commit -m "wrote" 
 git push origin master
 ```
 
