@@ -31,7 +31,7 @@ touch ~.txt
 git branch ~
 git checkout ~
 git add ~.txt
-git commit –m “make”
+git commit –m "make" 
 git push origin ~
 ```
 ↑の~は自分の学生証番号に置き換えてください
